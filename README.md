@@ -9,7 +9,7 @@
 
 Machine-readable `.txt` blocklist of illegal cheating websites blocked by the [Australian Government](https://www.teqsa.gov.au/blocked-illegal-cheating-websites), updated once a day.
 
-The URLs in this blocklist are released by the **Tertiary Education Quality and Standards Agency © Commonwealth of Australia** under the [CC-BY-3.0](https://www.teqsa.gov.au/copyright) license.
+The URLs in this blocklist are released by the **Tertiary Education Quality and Standards Agency © Commonwealth of Australia** under the [CC-BY-3.0-AU-DEED](https://www.teqsa.gov.au/copyright) license.
 
 **Disclaimer:** _This project is not sponsored, endorsed, or otherwise affiliated with the Australian Government._
 
