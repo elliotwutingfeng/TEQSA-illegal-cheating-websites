@@ -1,0 +1,9 @@
+[project]
+name = "teqsa-illegal-cheating-websites"
+version = "0.0.1"
+requires-python = ">=3.14"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "selenium>=4.38.0",
+    "tldextract>=5.3.0",
+]
