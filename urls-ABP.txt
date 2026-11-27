@@ -12,6 +12,7 @@
 ||99papers.com^
 ||a-writer.com^
 ||a1-termpaper.com^
+||a1assignments.com^
 ||abcassignmenthelp.com^
 ||acadbox.com^
 ||academic-assignment.com^
@@ -23,6 +24,7 @@
 ||academicgod.com^
 ||academichelp.net^
 ||academicphd.com^
+||academicprojectsbangalore.com^
 ||academicrelief.com^
 ||academicwriting.com.au^
 ||academized.com^
@@ -44,11 +46,14 @@
 ||allessaywriter.com^
 ||allhomeworkhelp.com^
 ||allieassignmenthelp.com^
+||alphaassignmenthelp.com^
 ||amazingcopywritingtips.com^
 ||anjitvs.in^
 ||answersdive.com^
 ||antessay.net^
 ||arcgisassignment.help^
+||askassignment.com^
+||askassignmentinfo.com^
 ||askmeassignment.com^
 ||assesmentexpert.com^
 ||assesmenthelp.com^
@@ -63,6 +68,7 @@
 ||assignment1st.org^
 ||assignment4me.com^
 ||assignmentachievers.com^
+||assignmentaustralia.com^
 ||assignmentbang.net^
 ||assignmentbee.com^
 ||assignmentbro.com^
@@ -73,10 +79,12 @@
 ||assignmentessayhelp.com^
 ||assignmentessays.com^
 ||assignmentexpert.com.au^
+||assignmentexpert.io^
 ||assignmentfirm.com^
 ||assignmentgallery.com^
 ||assignmentgeek.com^
 ||assignmentgeek.com.au^
+||assignmentglobal.com^
 ||assignmentgo.net^
 ||assignmentgoals.com^
 ||assignmentgod.com^
@@ -126,6 +134,7 @@
 ||assignmentprime.com^
 ||assignmentprohelp.com^
 ||assignmentprovider-aus.com^
+||assignmentquick.com.au^
 ||assignments4u.com^
 ||assignmentsamples.com^
 ||assignmentsearches.com^
@@ -166,6 +175,7 @@
 ||aussieessay.net^
 ||aussieessays.com^
 ||aussieessaywriter.com.au^
+||aussiessay.com^
 ||aussiewriter.com^
 ||australiaassignmenthelp.com^
 ||australiabesttutor.com^
@@ -210,6 +220,7 @@
 ||bigassignments.com^
 ||bombessays.com^
 ||bonafideassignment.com^
+||bookmyessay.co.uk^
 ||bookmyessay.com^
 ||bookmyessay.com.au^
 ||boomessays.com^
@@ -222,10 +233,12 @@
 ||calltutors.com^
 ||casestudyhelp.com^
 ||cdraustralia.org^
+||cdrwriters.org^
 ||cheapassignmentsonline.net^
 ||cheapdissertationwriting.com^
 ||cheapestessay.com^
 ||chiefessays.net^
+||cipdhelp.com^
 ||classroomessay.com^
 ||codingassignmenthelp.io^
 ||codingo.sg^
@@ -238,6 +251,7 @@
 ||cookeryassignmenthelp.io^
 ||cookmyproject.com^
 ||coursepear.com^
+||coursepivot.com^
 ||courseworkhelp.com.au^
 ||courseworkhelp.io^
 ||creativesavantz.com^
@@ -260,7 +274,9 @@
 ||doassignmenthelp.com^
 ||domyassignment.com.au^
 ||domyassignmentpro.com^
+||domyassignments.ai^
 ||domyassignments.com^
+||domyassignments.com.au^
 ||domyassignmentspro.com^
 ||domydissertation.com.au^
 ||domyessay.com^
@@ -269,6 +285,7 @@
 ||duewriting.com^
 ||eastwriting.com^
 ||eazyresearch.com^
+||edubirdie.com^
 ||edugeeksclub.com^
 ||edusaviors.com^
 ||edusson.com^
@@ -314,6 +331,7 @@
 ||essaytigers.com^
 ||essaytown.com^
 ||essaytypist.com^
+||essaywritersgeek.com^
 ||essaywritersworld.com^
 ||essaywritingservice.com.au^
 ||evoessay.com^
@@ -336,6 +354,7 @@
 ||freeessaywriter.ai^
 ||freelanceessays.com^
 ||geeksprogramming.com^
+||getassignmenthelponline.com^
 ||getcorrectanswers.com^
 ||getresearchhelp.com^
 ||globalassignmentexpert.com^
@@ -369,6 +388,7 @@
 ||helpinhomework.org^
 ||helpmyassignment.com^
 ||helpwithassignment.com^
+||heypaper.com^
 ||highgradeassignmenthelp.com^
 ||highqualityassignmenthelp.com^
 ||hiraedu.com^
@@ -380,6 +400,7 @@
 ||hwbangshou.com^
 ||hybridresearchcenter.com^
 ||idealassignmenthelp.com^
+||idealaunch.in^
 ||idoassignment.com^
 ||indiaassignmenthelp.com^
 ||infigassignmenthelp.com^
@@ -411,6 +432,7 @@
 ||makemytutors.com^
 ||managementassignmenthelp.com.au^
 ||managementassignmenthelp.io^
+||managementassignmentwriter.com^
 ||managementtutors.com^
 ||marketingassignmenthelp.com.au^
 ||marketingassignmenthelp.io^
@@ -426,6 +448,7 @@
 ||myacademichelps.com^
 ||myassignment-services.com^
 ||myassignment.live^
+||myassignment.services^
 ||myassignmentexpert.com^
 ||myassignmentexperts.com^
 ||myassignmenthelp.com^
@@ -446,6 +469,7 @@
 ||myassignmentmart.com^
 ||myassignmentmentor.com^
 ||myassignmentonline.com^
+||myassignments-pro.com^
 ||myassignmentservices.co.uk^
 ||myassignmentservices.com^
 ||myassignmentservices.com.au^
@@ -475,6 +499,7 @@
 ||nativeassignmenthelp.co.uk^
 ||needassignment.com^
 ||needassignmenthelp.com^
+||neerajassignments.com^
 ||newassignmenthelp.co.uk^
 ||newassignmenthelpau.com^
 ||newassignmenthelpaus.com^
@@ -492,6 +517,7 @@
 ||onlinetutorhelps.com^
 ||overnightessay.com^
 ||oxfordwritingservices.com^
+||oz-essay.com^
 ||ozassignments.com^
 ||ozessay.com.au^
 ||ozpaperhelp.com^
@@ -515,6 +541,7 @@
 ||popularassignmenthelp.com^
 ||professays.com^
 ||professionalwritingservices.in^
+||projectitude.com^
 ||psychologywriting.com^
 ||punjabassignmenthelp.com^
 ||rapidassignmenthelp.co.uk^
@@ -527,8 +554,10 @@
 ||rushessay.com^
 ||s-asa.com^
 ||s-assignment.com^
+||samedaypapers.com^
 ||sampleassignment.com^
 ||scamfighter.net^
+||scholarshelp.org^
 ||scienceassignmenthelp.com^
 ||secureassignmenthelp.com^
 ||sharkpapers.com^
@@ -538,6 +567,7 @@
 ||smartcustomessays.com^
 ||solvedassignments.net^
 ||sopconsultants.com^
+||sopforcanada.com^
 ||sourceessay.com^
 ||speedypaper.com^
 ||standoutessay.com^
@@ -558,9 +588,11 @@
 ||theassignmenthelpline.com^
 ||thebestassignmenthelp.com^
 ||thecasesolutions.com^
+||thefastwriter.com^
 ||theresearchguardian.com^
 ||thestatisticsassignmenthelp.com^
 ||thestudenthelpline.com^
+||thestudenthelpline.com.au^
 ||thestudenthelpline.io^
 ||thetutorshelp.com^
 ||theunitutor.com^
@@ -575,6 +607,7 @@
 ||totalassignment.com^
 ||totalassignmenthelp.com^
 ||treatassignmenthelp.com^
+||triadessay.com^
 ||tutorbin.com^
 ||tutorhelp.club^
 ||tutoringbyexperts.com^
@@ -605,6 +638,7 @@
 ||worldassignmenthelp.com^
 ||wowessays.com^
 ||writeanassignment.com^
+||writeanypapers.com^
 ||writemyassignment.io^
 ||writersperhour.com^
 ||writing-help.com^
